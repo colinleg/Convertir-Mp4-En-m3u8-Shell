@@ -1,4 +1,4 @@
-# Mp4ToM3u8
+# Mp4ToM3u8 [Fr]
 
 Convert mp4 files to multiples ts files and a m3u8 file.
 
