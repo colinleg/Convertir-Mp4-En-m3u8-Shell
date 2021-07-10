@@ -15,7 +15,7 @@ Il utilise ffmpeg pour convertir le mp4 en ts + m3u8.
   1 ) Clic droit sur n'importe quel dossier dans l'explorateur > Ouvrir le dossier de scripts > Copier le .sh ici 
   -> ce qui permet ensuite : - de se placer dans le dossier composé de plusieurs fichiers vidéos. Puis clic droit > scripts > mp4Tom3u8
   
-  2 ) placer le script directement dans le fichier, ouvrir un terminal puis ;
+  2 ) placer le script directement dans le dossier où sont stockées les vidéos .mp4, ouvrir un terminal puis ;
 
   ```bash 
   bash mp4ToM3u8-multipleFiles.sh
